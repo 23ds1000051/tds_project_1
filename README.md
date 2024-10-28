@@ -1,4 +1,4 @@
-#### GitHub User & Repository Scraper
+## GitHub User & Repository Scraper
 
 This project is designed to gather detailed insights into GitHub users and their repositories, focusing on specific metrics such as location, follower count, programming languages, licenses, and popularity trends. Leveraging the GitHub API, it highlights key data points and trends among a defined user group.
 
